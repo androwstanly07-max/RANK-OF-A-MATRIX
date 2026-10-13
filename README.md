@@ -19,7 +19,8 @@ sol=np.linalg.matrix_rank(A)
 print(sol)
 ```
 ## Output:
-<img width="1000" height="388" alt="Screenshot 2026-10-13 221815" src="https://github.com/user-attachments/assets/da29e59a-300d-4dec-a6c7-4f729db74f9a" />
+<img width="1896" height="904" alt="Screenshot 2026-10-13 222605" src="https://github.com/user-attachments/assets/3f5ec179-093e-45cf-92d5-ef549044b3c9" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
